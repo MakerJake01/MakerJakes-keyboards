@@ -22,7 +22,7 @@ The keyboard has a spacing of 19.05x19.05. The layout is the same as the full si
 | Screws | 16-20 | M2 at least 3mm | 
 | JST | 1 | JST PH SMD not needed but recommended |
 | Reset Button | 1 | 6x6 SMD | 
-| Power Switch | 1 | MSK-12C02 | 
+| Power Switch | 1 | PCM12 | 
 | Screw In Feet | 2 | They are nice for typing but not needed | 
 
 # Where to Buy 
