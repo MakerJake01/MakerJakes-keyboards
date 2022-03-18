@@ -9,14 +9,14 @@ The BabyvBle is a [Nice!Nano](https://nicekeyboards.com/nice-nano/) based choc v
 [![keyboard picture](https://i.imgur.com/nBb76GL.jpg)](https://github.com/MakerJake01/J46K)
 The J46K is a 4x12 choc ortho keyboard that uses a PM and has an oled. 
 
-## [J46Kcol]()
-[![keyboard picture]()]()
+## [J46Kcol](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol)
+[![keyboard picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol)
 The J46Kcol is a hotswap PM based split unibody cherry spaced choc columnar stagger tray mount keyboard with perkey rgb backlighting.
 
-## [J46KcolMx]()
-[![keyboard picture]()]()
+## [J46KcolMx](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx)
+[![keyboard picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx)
 The J46Kcol is a hotswap PM based split unibody Mx columnar stagger bottom mount keyboard.
 
-## [J46KcolS]()
-[![keyboard picture]()]()
+## [J46KcolS](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS)
+[![keyboard picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS)
 The J46KcolS is a hotswap [Nice!Nano](https://nicekeyboards.com/nice-nano/) based split cherry spaced choc columnar stagger keyboard with encoders.
