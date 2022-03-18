@@ -1,5 +1,9 @@
 # MakerJake's-keyboards
-Index and Info about my keyboards
+## Index and Info about my keyboards.
+For the most up to date information join my discord server.
+<br> [![MakerJake YouTube](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ktUDJ3w) 
+
+
 
 ## [BabyvBle](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/BabyvBle)
 [![keyboard](https://i.imgur.com/8DEd4Qf.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/BabyvBle)
