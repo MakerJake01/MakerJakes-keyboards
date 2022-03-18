@@ -6,10 +6,10 @@
 The keyboard has a spacing of 19.05x19.05. If I remember it's stagger is based on the [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) by [TJ](https://github.com/tominabox1). It has a fixed 2x2u bottom row, there are some holes in the pcb for choc stabs but I dont have a plate designed. 
 
 # Pcb
-The zip file can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx/Pcb). There is only one pcb needed for this board. I ordered mine from [JLCPCB](https://jlcpcb.com) and the quailty is great.  
+The zip file can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol/Pcb). There is only one pcb needed for this board. I ordered mine from [JLCPCB](https://jlcpcb.com) and the quailty is great.  
 
 # Case
-The top and bottom case files can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx/Case). I printed both of mine from PLA. The quality does not matter to much. Sometimes the tray mounting points can snap off. 
+The top and bottom case files can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol/Case). I printed both of mine from PLA. The quality does not matter to much. Sometimes the tray mounting points can snap off. 
 
 # Firmware 
 It runs [QMK](https://qmk.fm) and the exact firmware is [here](https://github.com/MakerJake01/qmk_firmware/tree/master/keyboards/makerjake/J46Kcol). 
@@ -33,7 +33,7 @@ It runs [QMK](https://qmk.fm) and the exact firmware is [here](https://github.co
 # Where to Buy 
 I am not working on a group buy but I do have some spare pcbs. To get the most info join my discord server. You can buy and print the parts needed youself. 
 
-Go to the `#choose roles` channel and type 
+Go to the `#choose-roles` channel and type 
 ~~~
 !join J46Kcol
 ~~~

@@ -23,7 +23,7 @@ The J46Kcol is a hotswap PM based split unibody cherry spaced choc columnar stag
 ## [J46KcolMx](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx)
 [![keyboard picture](https://i.imgur.com/ZqfN8o0.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx)
 
-The J46Kcol is a hotswap PM based split unibody Mx columnar stagger bottom mount with and oled keyboard.
+The J46KcolMx is a hotswap PM based split unibody Mx columnar stagger bottom mount with and oled keyboard.
 
 ## [J46KcolS](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS)
 [![keyboard picture](https://i.imgur.com/WfKBlX8.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS)

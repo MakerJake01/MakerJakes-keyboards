@@ -28,7 +28,7 @@ The keyboard has a spacing of 19.05x19.05. The layout is the same as the full si
 # Where to Buy 
 I am working on a group buy but in lieu of any plans my discord will be the best place to get up to date info. 
 
-Go to the `#choose roles` channel and type 
+Go to the `#choose-roles` channel and type 
 ~~~
 !join BabyvBle
 ~~~

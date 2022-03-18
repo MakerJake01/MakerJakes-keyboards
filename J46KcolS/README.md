@@ -2,7 +2,7 @@
 # Where to Buy 
 I might to a group buy but no solid plans. I do have some extra pcbs. To get the most info join my discord server
 
-Go to the `#choose roles` channel and type 
+Go to the `#choose-roles` channel and type 
 ~~~
 !join J46Kcol
 ~~~
