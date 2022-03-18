@@ -11,6 +11,9 @@ The zip file can be found [here](https://github.com/MakerJake01/MakerJakes-keybo
 # Case
 The top and bottom case files can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx/Case). I printed both of mine from PLA. The quality does not matter to much. Sometimes the tray mounting points can snap off. 
 
+# Firmware 
+It runs [QMK](https://qmk.fm) and the exact firmware is [here](https://github.com/MakerJake01/qmk_firmware/tree/master/keyboards/makerjake/J46Kcol). 
+
 # Parts
 | Part        | Number      | Note |
 | :---        |    :----:   |          ---: |
