@@ -20,3 +20,7 @@ The J46Kcol is a hotswap PM based split unibody Mx columnar stagger bottom mount
 ## [J46KcolS](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS)
 [![keyboard picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS)
 The J46KcolS is a hotswap [Nice!Nano](https://nicekeyboards.com/nice-nano/) based split cherry spaced choc columnar stagger keyboard with encoders.
+
+## [J73K](https://github.com/MakerJake01/J73K_keyboard)
+[![picture]()](https://github.com/MakerJake01/J73K_keyboard)
+The J73K is a 15x5 ortholinear mainly tht keyboard with an atmega32a and USB C.  
