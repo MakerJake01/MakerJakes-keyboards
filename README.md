@@ -15,8 +15,8 @@ The BabyvBle is a [Nice!Nano](https://nicekeyboards.com/nice-nano/) based choc v
 
 The J46K is a 4x12 choc ortho keyboard that uses a PM and has an oled. 
 
-## [J46Kcol](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol)
-[![keyboard picture](https://i.imgur.com/pvrKhou.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol)
+## [J46Kcol](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46kcol)
+[![keyboard picture](https://i.imgur.com/pvrKhou.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46kcol)
 
 The J46Kcol is a hotswap PM based split unibody cherry spaced choc columnar stagger tray mount keyboard with perkey rgb backlighting.
 
