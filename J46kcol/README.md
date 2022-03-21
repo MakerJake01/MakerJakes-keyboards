@@ -2,8 +2,8 @@
 ### [Back to main list of boards](https://github.com/MakerJake01/MakerJakes-keyboards) 
 ![keyboard](https://i.imgur.com/pvrKhou.jpg)
 ## The J46Kcol is a hotswap PM based split unibody cherry spaced choc columnar stagger tray mount keyboard with perkey rgb backlighting.
-### [Back to main list of boards](https://github.com/MakerJake01/MakerJakes-keyboards) 
-The keyboard has a spacing of 19.05x19.05. If I remember it's stagger is based on the [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) by [TJ](https://github.com/tominabox1). It has a fixed 2x2u bottom row, there are some holes in the pcb for choc stabs but I dont have a plate designed. 
+
+The keyboard has a spacing of 19.05x19.05. If I remember its' stagger is based on the [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) by [TJ](https://github.com/tominabox1). It has a fixed 2x2u bottom row, there are some holes in the pcb for choc stabs but I dont have a plate designed. 
 
 # Pcb
 The zip file can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kcol/Pcb). There is only one pcb needed for this board. I ordered mine from [JLCPCB](https://jlcpcb.com) and the quailty is great.  
