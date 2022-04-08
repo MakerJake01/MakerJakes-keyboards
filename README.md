@@ -30,24 +30,24 @@ The J46KcolMx is a hotswap PM based split unibody Mx columnar stagger bottom mou
 
 The J46KcolS is a hotswap [Nice!Nano](https://nicekeyboards.com/nice-nano/) based split cherry spaced choc columnar stagger keyboard with encoders.
 
-## [J46Kbm]()
-[![picture]()]()
+## [J46Kbm](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kbm)
+[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kbm)
 The J46Kbm is a hotswap bottom mount ortho keyboard. 
 
-## [Trailmax]()
-[![picture]()]()
+## [Trailmax](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Trailmax)
+[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Trailmax)
 The trailmax is a totally original choc ortho split keyboard. 
 
-## [Tesseract]()
-[![picture]()]()
+## [Tesseract](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
+[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
 The tesseract is a atmega328p based mx hotswap ortho keyboard. 
 
-## [J42K]()
-[![picture]()]()
+## [J42K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
+[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
 The J42K is an HHKB ortho hotswap design with many bottom layouts. 
 
-## [J47K]()
-[![picture]()]()
+## [J47K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
+[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
 The J47K is a hotswap gasket mount ortho keyboard with dedicated arrows and an oled.
 
 ## [J73K](https://github.com/MakerJake01/J73K_keyboard)
