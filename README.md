@@ -30,11 +30,30 @@ The J46KcolMx is a hotswap PM based split unibody Mx columnar stagger bottom mou
 
 The J46KcolS is a hotswap [Nice!Nano](https://nicekeyboards.com/nice-nano/) based split cherry spaced choc columnar stagger keyboard with encoders.
 
+## [J46Kbm]()
+[![picture]()]()
+The J46Kbm is a hotswap bottom mount ortho keyboard. 
+
+## [Trailmax]()
+[![picture]()]()
+The trailmax is a totally original choc ortho split keyboard. 
+
+## [Tesseract]()
+[![picture]()]()
+The tesseract is a atmega328p based mx hotswap ortho keyboard. 
+
+## [J42K]()
+[![picture]()]()
+The J42K is an HHKB ortho hotswap design with many bottom layouts. 
+
+## [J47K]()
+[![picture]()]()
+The J47K is a hotswap gasket mount ortho keyboard with dedicated arrows and an oled.
+
 ## [J73K](https://github.com/MakerJake01/J73K_keyboard)
 [![picture](https://i.imgur.com/buBXmyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium)](https://github.com/MakerJake01/J73K_keyboard)
 
 The J73K is a 15x5 ortholinear mainly tht keyboard with an atmega32a and USB C.  
-
 
 # Naming scheme 
 The way I name my keyboards is quite repetitive, for many it can be a point of confusion. 
