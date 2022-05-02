@@ -35,23 +35,23 @@ The J46KcolS is a hotswap [Nice!Nano](https://nicekeyboards.com/nice-nano/) base
 The J46Kbm is a hotswap bottom mount ortho keyboard. 
 
 ## [Trailmax](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Trailmax)
-[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Trailmax)
+[![keyboard picture](https://i.imgur.com/e5IXuX9.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Trailmax)
 The trailmax is a totally original choc ortho split keyboard. 
 
 ## [Tesseract](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
-[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
+[![keyboard picture](https://i.imgur.com/pU88dbZ.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
 The tesseract is a atmega328p based mx hotswap ortho keyboard. 
 
 ## [J42K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
-[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
+[![keyboard picture](https://i.imgur.com/Gh81Y9Q.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
 The J42K is an HHKB ortho hotswap design with many bottom layouts. 
 
 ## [J47K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
-[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
+[![keyboard picture](https://i.imgur.com/mgQVnJ8.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
 The J47K is a hotswap gasket mount ortho keyboard with dedicated arrows and an oled.
 
 ## [J73K](https://github.com/MakerJake01/J73K_keyboard)
-[![picture](https://i.imgur.com/buBXmyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium)](https://github.com/MakerJake01/J73K_keyboard)
+[![keyboard picture](https://i.imgur.com/buBXmyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium)](https://github.com/MakerJake01/J73K_keyboard)
 
 The J73K is a 15x5 ortholinear mainly tht keyboard with an atmega32a and USB C.  
 
