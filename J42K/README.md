@@ -1,10 +1,10 @@
 # Boards
 ### [Back to main list of boards](https://github.com/MakerJake01/MakerJakes-keyboards) 
-![keyboard]()
+![keyboard](https://i.imgur.com/Gh81Y9Q.jpg)
 ## The J42K is a PM based tray mount 12u HHKB ortho hotswap keyboard. 
 
 # The mistake
-I messed up the main pcb because one of the switch footprints was off of the 19.05x19.05 grid. I was able to fix the pcb with a drill and a ton of time. 
+I messed up the main pcb because one of the switch footprints was off of the 19.05x19.05 grid. I was able to fix the pcb with a drill and a ton of time. It has been fixed in later revisions of the pcb. 
 
 # Pcb
 The zip file can be found [here](). There is only one pcb needed for this board. I ordered mine from [JLCPCB](https://jlcpcb.com) and the quailty is great.  
@@ -25,7 +25,7 @@ change this at some point. To get the most info join my discord server. You can 
 
 Go to the `#choose-roles` channel and type 
 ~~~
-!join 
+!join J42K
 ~~~
 
 [![MakerJake YouTube](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ktUDJ3w) 
