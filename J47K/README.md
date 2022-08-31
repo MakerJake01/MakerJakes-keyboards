@@ -1,7 +1,7 @@
 # Boards
 ### [Back to main list of boards](https://github.com/MakerJake01/MakerJakes-keyboards) 
 ![keyboard](https://i.imgur.com/mgQVnJ8.jpg)
-## This is a gasket mount hotswap 47 key board with arrows, an oled, and a promicro. 
+## The J47K is a gasket mount hotswap 47 key board with arrows, an oled, and a promicro. 
 
 
 
