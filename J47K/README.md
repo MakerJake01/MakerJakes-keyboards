@@ -9,7 +9,7 @@
 The zip file can be found [here](). There is only one pcb needed for this board. I ordered mine from [JLCPCB](https://jlcpcb.com) and the quailty is great.  
 
 # Case
-The top and bottom case files can be found [here](). I printed both of mine from PLA. The quality does not matter to much. Sometimes the tray mounting points can snap off. 
+The top and bottom case files can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K/Case). I printed both of mine from PLA. The quality does not matter to much. There needs to be enough space for the gaskets to fit in the case. 
 
 # Firmware 
 It runs [QMK](https://qmk.fm) and the exact firmware is [here](). 

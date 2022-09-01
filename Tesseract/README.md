@@ -8,7 +8,7 @@ The board uses a skeleton fr4 case with a reversible backplate. It uses a fixed 
 The zip file can be found [here](). There is only one pcb needed for this board. I ordered mine from [JLCPCB](https://jlcpcb.com) and the quailty is great.  
 
 # Case
-The top and bottom case files can be found [here](). I printed both of mine from PLA. The quality does not matter to much. Sometimes the tray mounting points can snap off. 
+The case is made of a plate and a backplate. There is a back piece that gives the board an angle. [here](). I would like to add a acrylic cover to protect the parts more.
 
 # Firmware 
 It runs [QMK](https://qmk.fm) and the exact firmware is [here](). 
