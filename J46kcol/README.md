@@ -30,6 +30,9 @@ It runs [QMK](https://qmk.fm) and the exact firmware is [here](https://github.co
 | Screws | 8 | M2 at least 3mm |
 | Screws | 10 | M2 longer than 3mm |  
 
+# Build Notes
+I tend to go a bit overboard with screws. You can ignore and skip out on many screws and you will be fine.
+
 # Where to Buy 
 I am not working on a group buy but I do have some spare pcbs. To get the most info join my discord server. You can buy and print the parts needed youself. 
 

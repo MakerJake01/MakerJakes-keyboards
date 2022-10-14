@@ -1,7 +1,7 @@
 # Boards
 ### [Back to main list of boards](https://github.com/MakerJake01/MakerJakes-keyboards) 
 ![keyboard]()
-## The J42Ki is a integrated tray mount 12u HHKB ortho hotswap keyboard. 
+## This is a keyboard
 
 description
 
