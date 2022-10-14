@@ -1,5 +1,5 @@
 # MakerJake's-keyboards
-## Index and Info about my keyboards.
+## Index and Info about my keyboards. Stil a WIP some links might not work.
 For the most up to date information join my discord server.
 <br> [![MakerJake YouTube](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ktUDJ3w) 
 

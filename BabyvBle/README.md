@@ -10,7 +10,6 @@ The keyboard has a spacing of 19.05x19.05. The layout is the same as the full si
 - Added + and - labels to the JST footprint 
 - Added labels to the I2C header
 
-
 # Parts
 | Part        | Number      | Note |
 | :---        |    :----:   |          ---: |
