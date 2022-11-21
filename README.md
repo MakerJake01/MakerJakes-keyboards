@@ -10,10 +10,14 @@ For the most up to date information join my discord server.
 
 The BabyvBle is a [Nice!Nano](https://nicekeyboards.com/nice-nano/) based choc v1 keyboard with an layout modified from the BabyV by [Eye Oh Designs](https://www.instagram.com/eyeohdesigns/?hl=en) and an optional oled. 
 
+Complete? :white_check_mark: 
+
 ## [J46K](https://github.com/MakerJake01/J46K)
 [![keyboard picture](https://i.imgur.com/nBb76GL.jpg)](https://github.com/MakerJake01/J46K)
 
 The J46K is a 4x12 choc ortho keyboard that uses a PM and has an oled. 
+
+Complete? :white_check_mark:
 
 ## [J46Kcol](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46kcol)
 [![keyboard picture](https://i.imgur.com/pvrKhou.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46kcol)
@@ -49,6 +53,8 @@ The J42K is a PM based tray mount 12u HHKB ortho hotswap keyboard.
 ## [J47K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
 [![keyboard picture](https://i.imgur.com/mgQVnJ8.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
 The J47K is a hotswap gasket mount ortho keyboard with dedicated arrows and an oled.
+
+Complete? :construction:
 
 ## [J73K](https://github.com/MakerJake01/J73K_keyboard)
 [![keyboard picture](https://i.imgur.com/buBXmyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium)](https://github.com/MakerJake01/J73K_keyboard)
