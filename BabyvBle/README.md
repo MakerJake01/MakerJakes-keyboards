@@ -5,6 +5,14 @@
 
 The keyboard has a spacing of 19.05x19.05. The layout is the same as the full size Babyv but there are two extra keys next to the thumb cluster. Both sides have the choice between 1x2u and 2x1u bottom rows. There is also the option of a front or back JST. 
 
+## PCB
+
+Provided in this repo are both gerber files for manufacturing and there are KiCad files for your own modifications. 
+
+## Firmware
+
+The firmware used for this is [ZMK](https://github.com/MakerJake01/zmk/tree/main/app/boards/shields/babyvble) but it can work with QMK. The current firmware files are not up to date with ZMK however it is functional.
+
 ## Changes in V2.1
 - Slightly recessed power switch to stop them from breaking when not in use 
 - Added + and - labels to the JST footprint 
