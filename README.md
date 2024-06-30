@@ -55,9 +55,9 @@ The tesseract is a atmega328p based mx hotswap ortho keyboard.
 
 Complete? :construction:
 
-## [J42K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
+## [J42K & J42Ki](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
 [![keyboard picture](https://i.imgur.com/Gh81Y9Q.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
-The J42K is a PM based tray mount 12u HHKB ortho hotswap keyboard.
+The J42K is a PM based tray mount 12u HHKB ortho hotswap keyboard. The J42Ki is uses an integrated controller.
 
 ## [J47K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)
 [![keyboard picture](https://i.imgur.com/mgQVnJ8.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J47K)

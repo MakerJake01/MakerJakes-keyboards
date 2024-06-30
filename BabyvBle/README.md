@@ -3,7 +3,7 @@
 ![keyboard](https://i.imgur.com/8DEd4Qf.jpg)
 ## The BabyvBle is a Nice!Nano based choc v1 keyboard with an layout modified from the BabyV by [Eye Oh Designs](https://www.instagram.com/eyeohdesigns/?hl=en)
 
-The keyboard has a spacing of 19.05x19.05. The layout is the same as the full size Babyv but there are two extra keys next to the thumb cluster. Both sides have the choice between 1x2u and 2x1u bottom rows. There is also the option of a front or back JST. 
+The keyboard has a spacing of 19.05x19.05. The layout is the same as the full size Babyv but there are two extra keys next to the thumb cluster. Both sides have the choice between 1x2u and 2x1u bottom rows. There is also the option of a front or back JST. The backplate is reversible.
 
 ## PCB
 
