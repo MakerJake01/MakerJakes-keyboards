@@ -22,7 +22,7 @@ It runs [QMK](https://qmk.fm) and the exact firmware is [here]().
 | 22pf | 2 | Disc_D3.0mm_W1.6_P2.50mm |
 | .1uf | 2 | Disc_D4.2mm_W1.9_P4mm |
 | 4.7uf | 1 | D4.0mm_P1.50mm |
-| dav70 | 24 | diode | 
+| Bav70 | 24 | diode | 
 | 3.6v zener | 2 | DO-35 |
 | Led | 1 | D3.0mm |
 | 500ma polyfuse | 1 | 5.1mm lead spacing |
