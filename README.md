@@ -63,7 +63,7 @@ The tesseract is a atmega328p based mx hotswap ortho keyboard.
 
 Complete? :construction:
 
-## [J46Kvan](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
+## [J46Kvan](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kvan)
 [![keyboard picture](/J46Kvan/J46KvanPic.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kvan)
 
 The J46Kvan is a minivan sized atmega328p based mx hotswap ortho keyboard. 
