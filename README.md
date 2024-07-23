@@ -57,6 +57,12 @@ The trailmax is a totally original choc ortho split keyboard.
 
 Complete? :construction:
 
+## [Tesseract](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
+[![keyboard picture](https://i.imgur.com/pU88dbZ.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
+The tesseract is a atmega328p based mx hotswap ortho keyboard. 
+
+Complete? :construction:
+
 ## [J46Kvan](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Tesseract)
 [![keyboard picture](/J46Kvan/J46KvanPic.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kvan)
 
