@@ -3,7 +3,7 @@
 ![keyboard](https://i.imgur.com/Gh81Y9Q.jpg)
 ## The J42K is a PM based tray mount 12u HHKB ortho hotswap keyboard. 
 
-It has been designed to have many options for the bottom row. Below is a KLE showing the layout. The bottom two layouts are possible if there is no stab used for the center 2u keycap. ![Layout](J42kKle.png) 
+It has been designed to have many options for the bottom row. Below is a KLE showing the layout. The bottom two layouts are NOT possible. Despite the the switch positions being in the pcb, some of them share the same matrix position. ![Layout](J42kKle.png) 
 
 
 # J42Ki
