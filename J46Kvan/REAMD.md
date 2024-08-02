@@ -6,10 +6,10 @@
 This pcb is designed to work with tray mount cases but some of the screw holes are hard to access with the switches in place. On the bottom row there is a choice of 2x1u or 1x2u for each side of the bottom row.This board was heavily ispired by the [romeo by coseyfannitutti](https://github.com/coseyfannitutti/romeo) and [squashkb's Lesovoz](https://trashman.wiki/community/pcbs/lesovoz). It also uses [coseyfannitutti fork of USBasp](https://github.com/coseyfannitutti/USBaspLoader/tree/atmega328p).
 
 # Pcb
-The pcb and plate files are not yet public.
+The pcb files are not yet public.
 
 # Case
-With the right plate this is compatible with "normal" minivan cases.
+With the right plate this is compatible with "normal" minivan cases. I have created a plate that should be compatable with the [Coriander by Trash Man](https://trashman.wiki/cases/coriander) however, it has not been tested.
 
 # Firmware 
 It runs [QMK](https://qmk.fm) and the exact firmware is [here](). 
@@ -37,6 +37,7 @@ It runs [QMK](https://qmk.fm) and the exact firmware is [here]().
 | crystal | 1 | 16mhz HC49-4H |
 
 # Build Notes
+All the parts besides the diodes are tht. The USB is placed on the bottom side of the pcb but is soldered from the top of the pcb. The rest of the parts are soldered on the back of the pcb.
 
 # Where to Buy 
 change this at some point. To get the most info join my discord server. You can buy and print the parts needed youself. 

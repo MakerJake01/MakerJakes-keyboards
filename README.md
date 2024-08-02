@@ -63,10 +63,24 @@ The tesseract is a atmega328p based mx hotswap ortho keyboard.
 
 Complete? :construction:
 
+## [J46Kr](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kr)
+[![keyboard picture](/J46Kr/J46KrPic.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kr)
+
+The J46Kr is a promicro based split keyboard hotswap keyboard with back lighting and an OLED.  
+
+Complete? :construction:
+
 ## [J46Kvan](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kvan)
 [![keyboard picture](/J46Kvan/J46KvanPic.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kvan)
 
 The J46Kvan is a minivan sized atmega328p based mx hotswap ortho keyboard. 
+
+Complete? :construction:
+
+## [J46Kx](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kx)
+[![keyboard picture](/J46Kx/J46KxPic.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kx)
+
+The J46Kx is a bluetooth 12u ortho reversible Seeeduino Xiao based keyboard.
 
 Complete? :construction:
 
