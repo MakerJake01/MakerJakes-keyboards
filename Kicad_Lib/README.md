@@ -14,7 +14,7 @@ The [*Xiao*](https://wiki.seeedstudio.com/Seeeduino-XIAO/#resourses) footprints 
 
 The [*SK6812-MINI-E*](https://github.com/keebio/Keebio-Parts.pretty/tree/master?tab=readme-ov-file) footprint is from the keebio parts library and I modified it for use in reverse mounting. 
 
-The [*Kailh_socket_PG1350_no_corner_box_user drawing*](https://github.com/daprice/keyswitches.pretty/tree/master?tab=readme-ov-file) is modified from the keyswitches.pretty library.
+The [*Kailh_socket_PG1350_no_corner_box_user drawing* and *Kailh_socket_PG1350_Reversible*](https://github.com/daprice/keyswitches.pretty/tree/master?tab=readme-ov-file) is modified from the keyswitches.pretty library.
 
 The [*ArduinoProMicro*](https://github.com/keebio/Keebio-Parts.pretty/tree/master?tab=readme-ov-file) is from the keebio parts library and not modified. 
 
