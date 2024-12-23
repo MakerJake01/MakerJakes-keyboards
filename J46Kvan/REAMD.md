@@ -42,4 +42,4 @@ All the parts besides the diodes are tht. The USB is placed on the bottom side o
 # Where to Buy 
 change this at some point. To get the most info join my discord server. You can buy and print the parts needed youself. 
 
-[![MakerJake YouTube](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ktUDJ3w) 
+[![MakerJake Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ktUDJ3w) 

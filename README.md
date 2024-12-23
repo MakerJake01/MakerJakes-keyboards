@@ -98,6 +98,13 @@ The J47K is a hotswap gasket mount ortho keyboard with dedicated arrows and an o
 
 Complete? :construction:
 
+## [J0k](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J0K)
+[![keyboard picture](J0K/Knobs_on_Board.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J0K)
+
+The J0K is a EC12 compatible knob with an M2 set screw.
+
+Complete? :white_check_mark:
+
 ## [J73K](https://github.com/MakerJake01/J73K_keyboard)
 [![keyboard picture](https://i.imgur.com/buBXmyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium)](https://github.com/MakerJake01/J73K_keyboard)
 
