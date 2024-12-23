@@ -31,6 +31,8 @@ Complete? :white_check_mark:
 
 The J46Kcol is a hotswap PM based split unibody cherry spaced choc columnar stagger tray mount keyboard with perkey rgb backlighting.
 
+Complete? :white_check_mark:
+
 ## [J46KcolMx](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx)
 [![keyboard picture](https://i.imgur.com/ZqfN8o0.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolMx)
 
@@ -44,7 +46,7 @@ The J46KcolS is a hotswap [Nice!Nano](https://nicekeyboards.com/nice-nano/) base
 Complete? :construction:
 
 ## [J46Kbm](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kbm)
-[![picture]()](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kbm)
+[![picture](J46Kbm/J46Kbm.JPG)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46Kbm)
 
 The J46Kbm is a hotswap bottom mount ortho keyboard. 
 
@@ -82,7 +84,7 @@ Complete? :construction:
 
 The J46Kx is a bluetooth 12u ortho reversible Seeeduino Xiao based keyboard.
 
-Complete? :construction:
+Complete? :white_check_mark:
 
 ## [J42K & J42Ki](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
 [![keyboard picture](https://i.imgur.com/Gh81Y9Q.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)

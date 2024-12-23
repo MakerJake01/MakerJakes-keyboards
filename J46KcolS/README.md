@@ -6,11 +6,15 @@
 
 # PCB
 
-The PCB, plate, and backplate have been designed so that they are reversible.
+The PCB, plate, and backplate have been designed so that they are reversible. All the files can be found [here](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J46KcolS/Gerber). 
+
+The `back-pcb.zip` and `main-pcb-enc fix.zip` files are desgined to be 1.6mm. The plate file called `1.2mm plate pcb.zip` should be ordered as 1.2mm. It does not include cutouts for choc stabs.
 
 ## Changes in V1.1
-- Slightly recessed power switch to stop them from breaking when not in use 
 - Added encoder traces
+
+# Firmware 
+It runs [ZMK](https://zmk.dev/) and the exact firmware is [here](https://github.com/MakerJake01/zmk/tree/mousekeysnoacc/app/boards/shields/j46kcols). 
 
 # Parts
 | Part        | Number      | Note |
@@ -37,7 +41,7 @@ I might to a group buy but no solid plans. I do have some extra pcbs. To get the
 
 Go to the `#choose-roles` channel and type 
 ~~~
-!join J46Kcol
+!join J46Kcols
 ~~~
 
 [![MakerJake Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ktUDJ3w) 
