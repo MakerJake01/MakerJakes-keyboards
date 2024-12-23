@@ -20,3 +20,4 @@ The [*ArduinoProMicro*](https://github.com/keebio/Keebio-Parts.pretty/tree/maste
 
 The *JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal_BothSides* footprint is a modified version of the *JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal* but there is a copy of the footprint on the other side of the pcb.
 
+The *Nice!View* footprint was created based on drawings provided by [Nice!](https://nicekeyboards.com/docs/nice-view/pinout-schematic). 
