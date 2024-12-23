@@ -5,7 +5,7 @@
 
 The EC12 encoder is an amazing low profile. They have successfully been manufactured.
 
-![Pics from GB](knobs.jpg)
+![Pics from GB](Knobs.jpg)
 
 The two files both work. The one called `EC12Knob_Rect.step` has an extra internal feature to lock with the encoder. `EC12Knob.step` lacks this feature and is more compatible with a lathe based workflow.
 
