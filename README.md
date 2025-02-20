@@ -93,7 +93,7 @@ The J42K is a PM based tray mount 12u HHKB ortho hotswap keyboard. The J42Ki is 
 
 Complete? :construction:
 
-## [J42Kbm](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K)
+## [J42Kbm](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42Kbm)
 [![keyboard picture](J42Kbm/J42Kbm.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42Kbm)
 
 The J42K is a bottom mount 12u HHKB ortho hotswap keyboard.
