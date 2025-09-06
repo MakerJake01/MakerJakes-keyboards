@@ -9,10 +9,10 @@ This keyboard is the third iteration is the [J42K](https://github.com/MakerJake0
 The first version of the PCB was designed with an Atmega32u2 and the second version used in the GB has an STM32f07.
 
 # Case
-The case has been designed to be milled out of aluminum. 
+The case has been designed to be milled out of aluminum. The attached files in the [case](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42KBm/Case) folder will be sufficient to get this manufactured for yourself. 
 
 # Firmware 
-It runs [QMK](https://qmk.fm) however the QMK files needs to be updated to match the new MCU.
+The vial firmware for this keyboard is attached to this repo in case you need to re-flash the board. The vial source is also included in case you want to modify it.
 
 # Parts
 | Part        | Number      | Note |
@@ -20,10 +20,12 @@ It runs [QMK](https://qmk.fm) however the QMK files needs to be updated to match
 | PCB   | 1  |  |
 | Plate | 1 | |
 | Universal Daughter board | 1 | |
-| M2x3 Screw | 4 | |
-| M2x6 Screws | 4 | Unsure about length | 
+| JST Cable |
+| M2x4 Screw | 8 | | 
 
 # Build Notes
+
+The JST cable needs to folded into the slot to ensure the cable does not interfere with the PCB.
 
 # Where to Buy 
 change this at some point. To get the most info join my discord server. You can buy and print the parts needed youself. 
