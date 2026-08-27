@@ -6,7 +6,7 @@
 This keyboard is the third iteration is the [J42K](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42K) series. It has a center mount UDB. The bottom row layouts remain the same from previous versions. 
 
 # Pcb
-The first version of the PCB was designed with an Atmega32u2 and the second version used in the GB has an STM32f07.
+The first version of the PCB was designed with an Atmega32u2 and the second version used in the GB has an STM32f07. In the PCB folder you can find production files to get this board manufactured for yourself. The attached files were used for the GB production and function.
 
 # Case
 The case has been designed to be milled out of aluminum. The attached files in the [case](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J42KBm/Case) folder will be sufficient to get this manufactured for yourself. 

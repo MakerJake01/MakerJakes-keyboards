@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+USBLC6-2P6,U1,SOT-666,C15999
+Conn_01x04_Socket,J2,JST-SR-4,C160404
+Polyfuse_Small,F1,Fuse_1206_3216Metric,C20799
+USB_A,J1,USB_A_Molex_67643_Horizontal,C2346

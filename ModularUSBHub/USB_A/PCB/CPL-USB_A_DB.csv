@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+F1,Polyfuse_Small,Fuse_1206_3216Metric,78.5,-51.0,0.0,top
+J1,USB_A,USB_A_Molex_67643_Horizontal,74.0,-44.655,180.0,top
+J2,Conn_01x04_Socket,JST-SR-4,74.0,-55.875,0.0,top
+U1,USBLC6-2P6,SOT-666,74.0,-51.0,-90.0,top

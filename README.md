@@ -107,6 +107,13 @@ The J47K is a hotswap gasket mount ortho keyboard with dedicated arrows and an o
 
 Complete? :construction:
 
+## [Modular USB Hub](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/Mdhcudbcusbhb)
+[![PCB Pictures](ModularUSBHub/SDAndHub.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/ModularUSBHub)
+
+This is a modular USB hub system built around the Mdhcudbcusbhb with peripheral boards made to be compatible with the UDB JST cable.
+
+Complete? :construction:
+
 ## [J0k](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J0K)
 [![keyboard picture](J0K/Knobs_on_Board.jpg)](https://github.com/MakerJake01/MakerJakes-keyboards/tree/main/J0K)
 
